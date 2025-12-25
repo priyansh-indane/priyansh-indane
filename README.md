@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 - 📫 How to reach me: indanepriyansh@gmail.com
 
-![](https://www.codewars.com/users/priyansh-indane/badges/large)
+![](https://www.codewars.com/users/p-shadow/badges/large)
