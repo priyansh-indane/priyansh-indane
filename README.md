@@ -1,7 +1,6 @@
 # Hi, I'm Priyansh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### 📈 Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyansh-indane&theme=github-compact&hide_border=true)](https://github.com/priyansh-indane)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1f6feb&height=120&section=header&text=Welcome+to+my+Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn)
 ---
 
 ### 👤 About Me
