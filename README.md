@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Priyansh!👋
 
 Here are some ideas to get you started:
 
