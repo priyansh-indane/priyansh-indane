@@ -41,12 +41,6 @@
 
 ---
 
-### 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=priyansh-indane&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyansh-indane&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
