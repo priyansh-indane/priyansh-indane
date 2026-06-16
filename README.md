@@ -5,7 +5,7 @@
 
 ### 👤 About Me
 
-- 🌱 I'm currently learning **Python** and exploring **AI**
+- 🌱  **Python**||**AI**
 - 👥 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: [indanepriyansh@gmail.com](mailto:indanepriyansh@gmail.com)
